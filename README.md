@@ -1,7 +1,16 @@
 ### Hi there 👋
 
-<!--
+
 **charleszhn/charleszhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=arakitatsuzou&show_icons=true&hide_title=true&hide_border=true&locale=ja&hide=contribs&icon_color=CE1D2D&text_color=718096&bg_color=00000000&line_height=45" />
+
+### こんにちは、世界 👋
+
+- 🇯🇵 日本で暮らしたい
+- 🎨 UI・UXを学びたい
+- 📱 iOS開発者＆Appleファン
+- 🙍 恋愛したいけど好きな人ができない
+- 😸 小説・映画・ドラマ・マンガ・ゲーム好き
 
 Here are some ideas to get you started:
 
@@ -13,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
