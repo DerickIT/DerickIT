@@ -11,7 +11,6 @@
 - 🎌  日本🇯🇵で暮らしたい
 - 🎭  Philosophy・Psychologyを学びたい
 - 👨‍💻C#&Java&JavaScript開発者＆Full Stack ファン
-- 🙍   恋愛したいけど好きな人ができない
 - 📚   小説・映画・ドラマ・マンガ・ゲーム好き
 - 📡   I’m currently learning reactive architecture.
 - 🚀   I’m a system architecture developer.
