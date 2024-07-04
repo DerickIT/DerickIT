@@ -27,7 +27,7 @@
 
 - 🌌 I want to live in a place of love and freedom
 - 🎭 I want to learn Philosophy and Psychology
-- 👨 💻 C# & Java & JavaScript Developer & Full Stack Fan
+- 👨 💻 Golang & C# & TypeScript Developer & Solidity
 - 📚 Novels, movies, dramas, manga, and games
 - 📡   I’m currently learning reactive architecture.
 - 🎡 Gakuno
@@ -44,7 +44,7 @@
 
 - 🌌  愛と自由の場所で暮らしたいと思っています
 - 🎭  Philosophy・Psychologyを学びたい
-- 👨‍💻  C#&Java&JavaScript開発者＆Full Stack ファン
+- 👨‍💻  Golang & C# & TypeScript Developer & Solidity ファン
 - 📚   小説・映画・ドラマ・マンガ・ゲーム好き
 - 📡   I’m currently learning reactive architecture.
 - 🎡   I’m currently learning web3 and blockchain.
