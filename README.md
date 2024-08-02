@@ -58,8 +58,8 @@
  <!-- waka-box end -->
 <!--START_SECTION:waka-->
 
-```rust
-From: 01 August 2024 - To: 01 August 2024
+```markdown
+From: 02 July 2024 - To: 01 August 2024
 
 Total Time: 0 secs
 
