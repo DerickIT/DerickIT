@@ -52,7 +52,8 @@
 - 🎈   是一個努力擁有真誠，善良，勇敢品質的地球人，喜歡閱讀，旅行，熱愛開源，分享，希望社會變得更美好🗺🏆
 
 [![wakatime](https://wakatime.com/badge/user/f5c86d5f-5dbf-44a2-b49b-083076d5f2bc.svg)](https://wakatime.com/@f5c86d5f-5dbf-44a2-b49b-083076d5f2bc)
-![](https://raw.githubusercontent.com/DerickIT/DerickIT/main/assets/github-contribution-grid-snake.svg)
+
+![Derick's github activity graph](https://raw.githubusercontent.com/DerickIT/DerickIT/output/github-contribution-grid-snake.svg)
  <!-- waka-box start -->
  <!-- waka-box end -->
 <!--START_SECTION:waka-->
