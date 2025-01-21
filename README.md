@@ -32,7 +32,6 @@
 - 📡   I’m currently learning reactive architecture.
 - 🎡 Gakuno
 - 🚀   I’m a system architecture developer.
-- 🎈 是一個努力擁有真誠,Goodness,Brave Quality Person of Earth,喜歡閱讀,Travel,Hot Love Kaigen,分享,Hope 社會變得更美好 🗺🏆
 - 🔭 I’m currently working on design life 
 - 😄  Pronouns: ...
 - ⚡  Fun fact: ...
