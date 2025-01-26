@@ -56,11 +56,11 @@
 <!--START_SECTION:waka-->
 
 ```markdown
-From: 17 January 2025 - To: 24 January 2025
+From: 18 January 2025 - To: 25 January 2025
 
-Total Time: 4 hrs 21 mins
+Total Time: 4 hrs 8 mins
 
-Other      1 hr 35 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.33 %
+Other      1 hr 35 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.32 %
 ```
 
 <!--END_SECTION:waka-->
