@@ -56,11 +56,13 @@
 <!--START_SECTION:waka-->
 
 ```markdown
-From: 27 January 2025 - To: 03 February 2025
+From: 28 January 2025 - To: 04 February 2025
 
-Total Time: 0 secs
+Total Time: 42 mins
 
-No activity tracked
+Markdown     40 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀   94.25 %
+TypeScript   2 mins          ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.31 %
+Other        0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.32 %
 ```
 
 <!--END_SECTION:waka-->
