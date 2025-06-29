@@ -56,7 +56,7 @@
 <!--START_SECTION:waka-->
 
 ```markdown
-From: 20 June 2025 - To: 27 June 2025
+From: 21 June 2025 - To: 28 June 2025
 
 Total Time: 15 hrs 23 mins
 
