@@ -56,12 +56,11 @@
 <!--START_SECTION:waka-->
 
 ```markdown
-From: 30 October 2025 - To: 06 November 2025
+From: 31 October 2025 - To: 07 November 2025
 
-Total Time: 12 mins
+Total Time: 0 secs
 
-YAML   8 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀   72.52 %
-Go     3 mins          ⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.48 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
