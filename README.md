@@ -56,13 +56,12 @@
 <!--START_SECTION:waka-->
 
 ```markdown
-From: 02 March 2026 - To: 09 March 2026
+From: 03 March 2026 - To: 10 March 2026
 
-Total Time: 1 hr 55 mins
+Total Time: 44 mins
 
-Markdown   1 hr 6 mins           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   57.79 %
-Go         46 mins               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.41 %
-JSON       2 mins                ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.81 %
+Go         32 mins               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀   73.84 %
+Markdown   11 mins               ⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.16 %
 ```
 
 <!--END_SECTION:waka-->
