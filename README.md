@@ -56,7 +56,7 @@
 <!--START_SECTION:waka-->
 
 ```markdown
-From: 31 July 2026 - To: 07 August 2026
+From: 01 August 2026 - To: 08 August 2026
 
 Total Time: 3 mins
 
