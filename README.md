@@ -56,12 +56,13 @@
 <!--START_SECTION:waka-->
 
 ```markdown
-From: 08 September 2026 - To: 15 September 2026
+From: 09 September 2026 - To: 16 September 2026
 
-Total Time: 14 mins
+Total Time: 26 mins
 
-Markdown   13 mins               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀   94.04 %
-Other      0 secs                ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.96 %
+Go         12 mins               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.69 %
+Markdown   7 mins                ⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.26 %
+Other      6 mins                ⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.05 %
 ```
 
 <!--END_SECTION:waka-->
