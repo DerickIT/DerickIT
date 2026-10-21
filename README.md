@@ -56,11 +56,13 @@
 <!--START_SECTION:waka-->
 
 ```markdown
-From: 11 October 2026 - To: 18 October 2026
+From: 13 October 2026 - To: 20 October 2026
 
-Total Time: 18 hrs 26 mins
+Total Time: 39 hrs 54 mins
 
-Other          7 hrs 11 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.02 %
+Go             13 hrs 38 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.16 %
+Markdown       10 hrs 32 mins        ⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.42 %
+Other          9 hrs 35 mins         ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.03 %
 ```
 
 <!--END_SECTION:waka-->
